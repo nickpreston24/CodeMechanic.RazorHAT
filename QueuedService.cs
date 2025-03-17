@@ -1,7 +1,7 @@
 using CodeMechanic.Async;
 using CodeMechanic.Shargs;
 
-namespace Sharpify.CLI;
+namespace CodeMechanic.RazorHAT;
 
 public class QueuedService
 {
