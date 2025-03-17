@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CodeMechanic.Async" Version="1.0.2" />
+    <PackageReference Include="CodeMechanic.Shargs" Version="1.0.4" />
+  </ItemGroup>
+
+</Project>
